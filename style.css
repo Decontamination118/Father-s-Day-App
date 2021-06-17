@@ -1,0 +1,38 @@
+.section1
+{
+    display: flex;
+    justify-content: center;
+}
+
+.section_style
+{
+    
+    margin-right:25px;
+    margin-left:25px;
+    background-color:white;
+}
+
+img
+{
+    width:500px;
+    height:500px;
+}
+
+#gren
+{
+    height:200px;
+    width:350px;
+}
+
+#meme
+{
+    height:200px;
+    width:350px;
+}
+
+#cat
+{
+    width:200px;
+    height:200px;
+    
+}
